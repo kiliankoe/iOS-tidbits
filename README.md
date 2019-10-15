@@ -18,3 +18,5 @@ Cropping screenshots snaps to view boundaries.
 ## Keyboard
 
 3D Touch can not just be used to move the cursor, but by pressing harder you can also select ranges or, by pressing harder yet again, select entire sentences.
+
+Select text on non-3D-Touch devices by using a second finger ([thanks Martin](https://twitter.com/mrtnlst/status/1184201308020137984?s=21)).
