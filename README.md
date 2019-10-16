@@ -2,7 +2,7 @@
 
 ## General
 
-Swipe sideways directly on the home indicator to switch between recent apps. There's no need to invoke the app switcher for this.
+Swipe sideways directly on the home indicator to switch between recent apps. There's no need to invoke the app switcher for this. ([thanks Eugen](https://twitter.com/eugenpirogoff/status/1184349517589762051?s=21))
 
 
 ## Calculator
