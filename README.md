@@ -2,9 +2,19 @@
 
 ## General
 
-- Swipe sideways directly on the home indicator to switch between recent apps. There's no need to invoke the app switcher for this. ([thanks Eugen](https://twitter.com/eugenpirogoff/status/1184349517589762051?s=21))
-- Tap on statusbar to scroll lists to top
-- Swipe from left edge to go back to upper menu level (e.g. settings app)
+Swipe sideways directly on the home indicator to switch between recent apps. There's no need to invoke the app switcher for this. ([thanks Eugen](https://twitter.com/eugenpirogoff/status/1184349517589762051?s=21))
+
+Tap on the status bar at the top of the screen to scroll lists back to the top. This is especially fun in Photos, where you might have years or decades worth of photos (tapping on the tab bar at the bottom brings you back down 😉)
+
+Current iOS is very gesture-driven. Navigating back a screen can usually be done by swiping right from the left edge. Modal views and large media displays can often be dismissed by swiping down.
+
+
+## Safari
+
+Accidentally closed a tab? No worries, just press and hold the new tab button <kbd>+</kbd> in the tab overview to reopen recently closed tabs.
+
+If you're looking to close tabs very quickly, hold the tab-overview button or the done button in the tab overview to be prompted for closing all tabs.
+
 
 ## Calculator
 
@@ -32,13 +42,8 @@ Select text on non-3D-Touch devices by using a second finger ([thanks Martin](ht
 
 Camera can scan QR codes directly, don't install 3rd party apps for this.
 
-## Safari
 
-- In Tab overview: Hold '+' to reopen recently closed tabs
-- Hold Tab-Overview-Button or Done-Button in Tab overview to close all Tabs
-
-
-## Copy, Paste, Undo & Redo (iOS 13 only)
+## Copy, Paste, Undo & Redo
 
 - Tap with 3 fingers to open Copy-Paste-Menue
 - Swipe left with 3 fingers to Undo
