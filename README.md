@@ -51,3 +51,8 @@ Camera can scan QR codes directly, don't install 3rd party apps for this.
 - Pinch in with 3 fingers to Copy
 - Pinch out with 3 fingers to Paste
 - Double pinch in with 3 Fingers to Cut
+
+## Navigation Controllers
+
+Drag from the left edge of a child view controller to swipe the child view
+controller away
