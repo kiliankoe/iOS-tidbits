@@ -15,6 +15,8 @@ Accidentally closed a tab? No worries, just press and hold the new tab button <k
 
 If you're looking to close tabs very quickly, hold the tab-overview button or the done button in the tab overview to be prompted for closing all tabs.
 
+Safari's Find on Page feature is hidden in the share sheet. Alternatively you can type directly into the URL bar and scroll down to search for your text on the current page.
+
 
 ## Calculator
 
