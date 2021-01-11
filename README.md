@@ -8,6 +8,8 @@ Tap on the status bar at the top of the screen to scroll lists back to the top. 
 
 Current iOS is very gesture-driven. Navigating back a screen can usually be done by swiping right from the left edge. Modal views and large media displays can often be dismissed by swiping down.
 
+Navigating back through several layers at once in a navigation context works the same way as in many browsers, long-press on the Back button to see a menu with all possible views to jump back to.
+
 
 ## Safari
 
@@ -39,9 +41,9 @@ Cropping screenshots snaps to view boundaries.
 
 ## Keyboard
 
-3D Touch can not just be used to move the cursor, but by pressing harder you can also select ranges or, by pressing harder yet again, select entire sentences.
+~3D Touch can not just be used to move the cursor, but by pressing harder you can also select ranges or, by pressing harder yet again, select entire sentences.~
 
-Select text on non-3D-Touch devices by using a second finger ([thanks Martin](https://twitter.com/mrtnlst/status/1184201308020137984?s=21)).
+With 3D Touch no longer existing on modern devices, you can now move the cursor by holding down on the spacebar and then moving across the entire keyboard. Select text by tapping anywhere on the keyboard with a second finger and moving the cursor with the first finger to select. ([thanks Martin](https://twitter.com/mrtnlst/status/1184201308020137984?s=21))
 
 
 ## Camera
