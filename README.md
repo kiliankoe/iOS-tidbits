@@ -50,6 +50,8 @@ With 3D Touch no longer existing on modern devices, you can now move the cursor 
 
 Camera can scan QR codes directly, don't install 3rd party apps for this.
 
+Hold the shutter button to record video. You can also slide it to the side to the lock icon so as not to have to hold it anymore. If you miss the burst photo functionality here, you can use the volume up button for this (down records video as well), after enabling it in the camera system settings.
+
 
 ## Copy, Paste, Undo & Redo
 
