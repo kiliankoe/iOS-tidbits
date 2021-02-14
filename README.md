@@ -60,7 +60,7 @@ Hold the shutter button to record video. You can also slide it to the side to th
 
 ## Copy, Paste, Undo & Redo
 
-- Tap with 3 fingers to open Copy-Paste-Menue
+- Tap with 3 fingers to open Copy-Paste-Menu
 - Swipe left with 3 fingers to Undo
 - Swipe right with 3 fingers to Redo
 - Pinch in with 3 fingers to Copy
