@@ -32,7 +32,7 @@ Delete incorrect input by swiping on the display.
 
 US addresses have the house number up front, many other countries don't. But you can still enter the number first to use the autocompletion without it immediately triggering a search for the incomplete query. E.g. type "19 Rothenbu" to use the autocompletion to search for "Rothenburger Straße 19".
 
-Tap, hold and pan up to zoom in. Tap, hold and pan down to zoom out.
+Double-Tap and pan up to zoom in, pan down to zoom out.
 
 ## Photos
 
