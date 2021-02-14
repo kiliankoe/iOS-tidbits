@@ -10,6 +10,7 @@ Current iOS is very gesture-driven. Navigating back a screen can usually be done
 
 Navigating back through several layers at once in a navigation context works the same way as in many browsers, long-press on the Back button to see a menu with all possible views to jump back to.
 
+When there is a navigation stack in a tab bar item, tapping the tab navigates to the root of the navigation stack.
 
 ## Safari
 
