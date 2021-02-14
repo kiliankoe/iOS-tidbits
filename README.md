@@ -19,6 +19,9 @@ If you're looking to close tabs very quickly, hold the tab-overview button or th
 
 Safari's Find on Page feature is hidden in the share sheet. Alternatively you can type directly into the URL bar and scroll down to search for your text on the current page.
 
+There's two ways to save a page as a PDF file depending on if you want the layout optimized for printing or not. If so, go into the share menu, tap print and then pinch to zoom on the preview. Here you can share the PDF file. (thanks Andre)
+If you want the normal layout, take a screenshot, tap it and select "Full Page" in the segmented control at the top of the screen.
+
 
 ## Calculator
 
