@@ -45,6 +45,8 @@ Cropping screenshots snaps to view boundaries.
 
 With 3D Touch no longer existing on modern devices, you can now move the cursor by holding down on the spacebar and then moving across the entire keyboard. Select text by tapping anywhere on the keyboard with a second finger and moving the cursor with the first finger to select. ([thanks Martin](https://twitter.com/mrtnlst/status/1184201308020137984?s=21))
 
+To quickly enter numbers or punctuation without having to tap on the <kbd>123</kbd> key, the character/digit and the <kbd>123</kbd> key again, just hold it, swipe to your number or punctuation character of choice and let go. iOS will then jump back to the default keyboard layout.
+
 
 ## Camera
 
