@@ -39,6 +39,7 @@ Double-Tap and pan up to zoom in, pan down to zoom out.
 
 When in selection mode, tap and drag over multiple photos to make a range selection.
 
+With multiple selected Live Photos that have overlapping video frames, pick “Save as video” from the three dot menu to create one long video. ([thanks Vishnu](https://hachyderm.io/@vp/110948494018738752))
 
 ## Screenshots
 
