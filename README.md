@@ -54,6 +54,8 @@ With 3D Touch no longer existing on modern devices, you can now move the cursor 
 
 To quickly enter numbers or punctuation without having to tap on the <kbd>123</kbd> key, the character/digit and the <kbd>123</kbd> key again, just hold it, swipe to your number or punctuation character of choice and let go. iOS will then jump back to the default keyboard layout.
 
+Swiping Umlauts (Ä, Ö etc) simply works by swiping the equivalent latin letter spelling (AE -> Ä, OE -> Ö etc).
+
 
 ## Camera
 
